@@ -6,8 +6,8 @@ macOS 原生数据库客户端：PostgreSQL、MySQL、MariaDB、SQLite、Redis�
 
 系统要求：macOS 27 及以上，Apple Silicon。
 
-1. 下载 [Keyrow.zip](https://github.com/leadead/Keyrow-Releases/releases/latest/download/Keyrow.zip)（[所有版本](https://github.com/leadead/Keyrow-Releases/releases)）
-2. 解压后把 Keyrow 拖入「应用程序」
+1. 下载 [Keyrow.dmg](https://github.com/leadead/Keyrow-Releases/releases/latest/download/Keyrow.dmg)（[所有版本](https://github.com/leadead/Keyrow-Releases/releases)）
+2. 打开 DMG，把 Keyrow 拖到「应用程序」，再从「应用程序」打开
 
 安装包已通过 Apple 公证。
 
